@@ -1,10 +1,10 @@
 
 
 function App() {
-  
+
   return (
-   <>
-   
+<>
+
   {/* ***** Header Area Start ***** */}
   <header
     className="header-area header-sticky wow slideInDown"
@@ -898,9 +898,11 @@ function App() {
       </div>
     </div>
   </footer>
+  {/* Scripts */}
 </>
 
   )
+
 }
 
-export default App
+export default App;
