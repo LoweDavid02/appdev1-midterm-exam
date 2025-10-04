@@ -1,20 +1,43 @@
-<<<<<<< HEAD
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<!-- Typing animation GIF for header -->
+<img src="https://media.giphy.com/media/3o7abB06u9bNzA8lu8/giphy.gif" width="100%" height="200px" style="object-fit: cover; border-radius: 12px;" />
 
-Currently, two official plugins are available:
+# ✨ AppDev1 Midterm Practical Exam  
+### 🎯 Converting a Static HTML/CSS Template into a React App using Vite
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+</div>
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Live Demo  
+You can view the live version of the app here:  
+👉 **[https://lowedavid02.github.io/appdev1-midterm-exam/](https://lowedavid02.github.io/appdev1-midterm-exam/)**  
 
-## Expanding the ESLint configuration
+> *(Click the link above to see the deployed app on GitHub Pages!)*  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# appdev1-midterm-exam
->>>>>>> a1a1137942cd6f757fc034d61c8d5dc7c652e24d
+---
+
+## 🧩 Project Overview  
+This is my **AppDev1 Midterm Practical Exam** project. I converted a static HTML/CSS layout into a dynamic **React application**, using **Vite** for fast tooling and clean setup.  
+
+---
+
+## 🧱 Features & Highlights
+
+- ✅ Static HTML template fully refactored as React components  
+- ✅ Use of `className` in JSX, splitting sections into components  
+- ✅ Clean CSS import and modular styling  
+- ✅ Frequent, meaningful commits (micro commits)  
+- ✅ Automated deployment to GitHub Pages  
+
+---
+
+## 📸 Preview
+
+<div align="center">
+  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="80%" style="border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.3);" />
+  <br/>
+  <i>✨ Sneak peek of the React app in action ✨</i>
+</div>
+
